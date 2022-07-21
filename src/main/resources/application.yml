@@ -1,0 +1,7 @@
+voucher:
+  api: https://mynt-exam.mocklab.io
+  key: apikey
+
+server:
+  error:
+    include-message: always
